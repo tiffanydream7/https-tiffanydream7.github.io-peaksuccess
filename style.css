@@ -2542,6 +2542,22 @@ body.seo_version .footer-links a:hover{
     box-shadow: 10px 10px 15px 0px #ccc;
 }
 
-.b-color {
+/* @TC modification */
+#b-color {
     background-color: #f2f3f5
+}
+
+#logo-p {
+    color: #282727;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    margin-top: 18px;
+}
+
+#who-are-we {
+    width: 60%;
+    color: rgb(60, 59, 59);
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
 }
